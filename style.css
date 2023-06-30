@@ -1,0 +1,61 @@
+.txt{
+    color: rgb(26, 26, 26);
+}
+.menu{
+    margin-left: 200px;
+}
+.imgfs{
+    position:relative;
+    height:auto;
+}
+.textt{
+      
+      position: absolute;
+      color: rgb(0, 0, 0);
+      
+      z-index: 1;
+}
+
+.sale:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    color: rgb(42, 84, 138);
+}
+.buy:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.bt{
+    border-radius: 10px;
+}
+
+.fot{
+    width: 100%;
+    height: auto;
+    background-color: rgb(24, 24, 24);
+}
+.lnk{
+    font-size: 15px;
+    color: rgb(131, 131, 131);
+    text-decoration: none;
+    
+}
+.lnk:hover{
+    text-decoration: underline;
+    color: rgb(255, 255, 255);
+}
+.mail{
+
+}
+.mail::placeholder{
+    color: rgb(255, 255, 255);
+
+}
+.line{
+    height: 5px;
+    background-color: rgb(255, 255, 255);
+}
+
+
+
+
